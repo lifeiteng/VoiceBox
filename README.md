@@ -7,7 +7,7 @@
 - [ ] Demo Page
 
 ## Results
-* **The model is trained on LibriTTS (500 hours) on a single RTX 4090.**
+* **The model is trained on LibriTTS (500 hours) on a single RTX 4090 for a few hours.**
 * **The first half is used as Prompt, the second half is the synthesized audio. The audio clip is not used in training.**
 	* use GroundTruth durations 
 
